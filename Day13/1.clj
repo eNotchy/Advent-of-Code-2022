@@ -1,5 +1,5 @@
 #!/usr/bin/env bb
-; Advent of Code 2022 / Day 13 / Gold
+; Advent of Code 2022 / Day 13 / Silver
 (declare cmp-packet)
 
 (defn cmp-vec [l r]
